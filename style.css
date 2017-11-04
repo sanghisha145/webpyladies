@@ -1,0 +1,46 @@
+body {
+	background: #ffffff;
+  margin:25px;
+	height: 100%;
+	color: #384452;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	}
+img{
+  width:300px;
+  height:300px;
+  margin-left: 450px;
+}
+h1{
+
+  margin-left: 450px;
+  color:purple;
+}
+h2{
+
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+h3{
+  color:#0000CD;
+}
+
+.specifics{
+
+  background-color: #c4dbe5;
+}
+.promoters {
+  background-color: #00BFFF;
+  
+}
+.promo{
+  display: inline-block;
+
+}
+
+.promoters img{
+  height:150px;
+  width:200px;
+
+}
